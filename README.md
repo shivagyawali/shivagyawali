@@ -11,8 +11,6 @@ Iam a FullStack Web Application Developer and Mobile Developer. I've quite good 
 * 💻 HTML, CSS, JS
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivagyawali&theme=dark&background=000000)](https://git.io/streak-stats)
-
 ## Tools & Technology
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -33,9 +31,3 @@ Iam a FullStack Web Application Developer and Mobile Developer. I've quite good 
 </div>
 
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivagyawali&theme=dark&background=000000)](https://git.io/streak-stats)
-
-## Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivagyawali&layout=compact&theme=vision-friendly-dark)](https://github.com/shivagyawali/github-readme-stats)
