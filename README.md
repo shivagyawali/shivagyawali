@@ -1,7 +1,7 @@
 
 <section background="white">
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/StellarGenetic-bird-owl-white-faced-scops-UDclWKlmfmq7twI3iJ" width="100"/>
+  <img src="https://media0.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif?cid=ecf05e47p70v5oes0sijw9vb1z072or25nr1b079el5a5f21&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
 ## Shiva Gyawali
