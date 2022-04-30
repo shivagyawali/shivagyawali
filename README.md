@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
- #Adrian Twarog
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+## Adrian Twarog
+Iam a FullStack Web Application Developer and Mobile Developer. I've quite good experience on tech stack like Laravel, Nodejs, MySQL, MongoDB, HTTP & REST, Git, React js & React Native. I'm forward looking to build myself as a complete software developer in IT industry.
 
 ## Skills and Experience
 * ⚛ React
