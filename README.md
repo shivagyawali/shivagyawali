@@ -3,7 +3,7 @@
 </div>
 
 ## Shiva Gyawali
-Iam a FullStack Web Application Developer and Mobile Developer. I've quite good experience on tech stack like Laravel, Nodejs, MySQL, MongoDB, HTTP & REST, Git, React js & React Native. I'm forward looking to build myself as a complete software developer in IT industry.
+Iam a FullStack Web Developer and Mobile Developer. I've quite good experience on tech stack like Laravel, Nodejs, MySQL, MongoDB, HTTP & REST, Git, React js & React Native. I'm forward looking to build myself as a complete software developer in IT industry.
 
 ## Skills and Experience
 * ⚛ React
