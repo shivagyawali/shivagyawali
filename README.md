@@ -1,7 +1,7 @@
 
 <section background="white">
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif?cid=ecf05e47p70v5oes0sijw9vb1z072or25nr1b079el5a5f21&rid=giphy.gif&ct=g" height="100" />
+  <img src="https://media0.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif?cid=ecf05e47p70v5oes0sijw9vb1z072or25nr1b079el5a5f21&rid=giphy.gif&ct=g" height="180" />
 </div>
 
 ## Shiva Gyawali
