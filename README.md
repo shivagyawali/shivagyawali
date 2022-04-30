@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## Adrian Twarog
+## Shiva Gyawali
 Iam a FullStack Web Application Developer and Mobile Developer. I've quite good experience on tech stack like Laravel, Nodejs, MySQL, MongoDB, HTTP & REST, Git, React js & React Native. I'm forward looking to build myself as a complete software developer in IT industry.
 
 ## Skills and Experience
@@ -13,6 +13,7 @@ Iam a FullStack Web Application Developer and Mobile Developer. I've quite good 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivagyawali&theme=dark&background=000000)](https://git.io/streak-stats)
 
+## Tools & Technology
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -35,6 +36,6 @@ Iam a FullStack Web Application Developer and Mobile Developer. I've quite good 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivagyawali&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+## Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivagyawali&layout=compact&theme=vision-friendly-dark)](https://github.com/shivagyawali/github-readme-stats)
