@@ -5,8 +5,7 @@
 </div>
 
 ## Shiva Gyawali
-Iam a FullStack Web Developer and Mobile Developer. I'm forward looking to build myself as a complete software developer in IT industry.
-
+Motivated Full-stack developer with a strong background in web architecture and 3+ years of experience building scalable and performant web applications. Skilled in developing both front-end and back-end features using modern JavaScript libraries and frameworks, including Express and Laravel. Additional knowledge of CI/CD processes and tools.
 ## Skills and Experience
 * ⚛ React
 * 📱 React Native
