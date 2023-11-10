@@ -8,14 +8,20 @@
 Motivated Full-stack developer with a strong background in web architecture and 3+ years of experience building scalable and performant web applications. Skilled in developing both front-end and back-end features using modern JavaScript libraries and frameworks, including Express and Laravel. Additional knowledge of CI/CD processes and tools.
 ## Skills and Experience
 * ⚛ React
+* Vue
 * 📱 React Native
 * 💻 HTML, CSS, JS
 * Laravel
-* NodeJs
+* Node JS
 * REST API
 * MySQL
 * MongoDB
-* GIT 
+* POSTGRES
+* GIT
+* GRAPH
+* NEST
+* DOCKER
+* TYPESCRIPT
 
 
 ## Tools & Technology
