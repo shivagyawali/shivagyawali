@@ -5,7 +5,10 @@
 </div>
 
 ## Shiva Gyawali
-Motivated Full-stack developer with a strong background in web architecture and 3+ years of experience building scalable and performant web applications. Skilled in developing both front-end and back-end features using modern JavaScript libraries and frameworks, including Express and Laravel. Additional knowledge of CI/CD processes and tools.
+With approximately 4 years of expertise in modern JavaScript/TypeScript libraries, CI/CD processes, and Agile methodologies, I am an experienced Full-Stack Developer dedicated to crafting secure, scalable web applications and actively engaging in global collaboration with cross-platform teams.
+
+![image](https://github.com/shivagyawali/shivagyawali/assets/58563524/a6cf59f6-e092-4e3c-9ceb-8c6c10fc34f7)
+
 ## Skills and Experience
 * ⚛ React
 * Vue
