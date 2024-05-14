@@ -5,7 +5,7 @@
 </div>
 
 ## Shiva Gyawali
-With approximately 4 years of expertise in modern JavaScript/TypeScript libraries, CI/CD processes, and Agile methodologies, I am an experienced Full-Stack Developer dedicated to crafting secure, scalable web applications and actively engaging in global collaboration with cross-platform teams.
+With more than 4 years of expertise in modern JavaScript/TypeScript libraries, CI/CD processes, and Agile methodologies, I am an experienced Full-Stack Developer dedicated to crafting secure, scalable web applications and actively engaging in global collaboration with cross-platform teams.
 
 
 
