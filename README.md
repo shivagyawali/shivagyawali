@@ -5,16 +5,15 @@
 </div>
 
 ## Shiva Gyawali
-Around 5 years of expertise in modern JavaScript/TypeScript libraries, CI/CD processes, and Agile methodologies, I am an experienced Full-Stack Developer dedicated to crafting secure, scalable web applications and actively engaging in global collaboration with cross-platform teams.
+Remote Results-oriented Full Stack Developer with over 5 years in med-tech, fintech, e-commerce, and government tech. Expert in scalable architecture, cloud platforms, CI/CD, robust API integration, and advanced database management. Focused on high-impact, results-driven solutions for complex projects.
 
 
 
 ## Skills and Experience
 * ⚛ React
-* Vue
 * 📱 React Native
 * 💻 HTML, CSS, JS
-* Laravel
+* Laravel and PHP
 * Node JS
 * REST API
 * MySQL
@@ -25,6 +24,8 @@ Around 5 years of expertise in modern JavaScript/TypeScript libraries, CI/CD pro
 * NEST
 * DOCKER
 * TYPESCRIPT
+* PYTHON
+* JavaScript
 
 
 ## Tools & Technology
