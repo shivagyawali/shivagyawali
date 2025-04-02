@@ -5,7 +5,9 @@
 </div>
 
 ## Shiva Gyawali
-Remote Results-oriented Full Stack Developer with over 5 years in med-tech, fintech, e-commerce, and government tech. Expert in scalable architecture, cloud platforms, CI/CD, robust API integration, and advanced database management. Focused on high-impact, results-driven solutions for complex projects.
+Senior Backend Developer with around 6 years of expertise in architecting scalable, high-performance systems for FinTech, InsTech, e-commerce, Med EdTech, and government domains. Proficient in JavaScript, TypeScript, Node.js, PHP (Laravel), and Python, I specialize in cloud-native solutions (AWS, Kubernetes), microservices, and advanced API frameworks. Celebrated for leading elite teams, interviewing top talent, and delivering cutting-edge innovations with strategic precision
+
+![image](https://github.com/user-attachments/assets/63d2b835-b3f5-4842-9418-630a8110c71d)
 
 
 
