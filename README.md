@@ -5,8 +5,8 @@
 </div>
 
 ## Shiva Gyawali
- * ⚛ Senior Backend Developer with around 6 years of expertise in architecting scalable, high-performance systems for FinTech, InsTech, e-commerce, Med EdTech, and government domains. Proficient in JavaScript, TypeScript, Node.js, PHP (Laravel), 
-   and Python, I specialize in cloud-native solutions (AWS, Kubernetes), microservices, and advanced API frameworks. Celebrated for leading elite teams, interviewing top talent, and delivering cutting-edge innovations with strategic precision
+Senior Backend Developer with around 6 years of expertise in architecting scalable, high-performance systems for FinTech, InsTech, e-commerce, Med EdTech, and government domains. Proficient in JavaScript, TypeScript, Node.js, PHP (Laravel), 
+and Python, I specialize in cloud-native solutions (AWS, Kubernetes), microservices, and advanced API frameworks. Celebrated for leading elite teams, interviewing top talent, and delivering cutting-edge innovations with strategic precision
 
 ![image](https://github.com/user-attachments/assets/63d2b835-b3f5-4842-9418-630a8110c71d)
 
